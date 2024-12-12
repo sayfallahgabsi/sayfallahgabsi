@@ -26,47 +26,48 @@
 
 ###
 
-<img align="left" height="200" src="https://github.com/ayogun/42-project-badges/blob/main/badges/philosopherse.png"  />
+<img align="center" height="200" src="https://github.com/ayogun/42-project-badges/blob/main/badges/libftm.png" href="https://github.com/LeSabreDeDieu/libft" />
+<br clear="both">
 
 ###
 
-<img align="left" height="200" src="https://github.com/ayogun/42-project-badges/blob/main/badges/get_next_linee.png"  />
+<img align="left" height="200" src="https://github.com/ayogun/42-project-badges/blob/main/badges/ft_printfe.png" href="https://github.com/LeSabreDeDieu/ft_printf" />
 
 ###
 
-<img align="left" height="200" src="https://github.com/ayogun/42-project-badges/blob/main/badges/libftm.png"  />
+<img align="center" height="200" src="https://github.com/ayogun/42-project-badges/blob/main/badges/get_next_linee.png" href="https://github.com/LeSabreDeDieu/gnl-42" />
 
 ###
 
-<img align="left" height="200" src="https://github.com/ayogun/42-project-badges/blob/main/badges/cub3dm.png"  />
+<img align="right" height="200" src="https://github.com/ayogun/42-project-badges/blob/main/badges/born2beroote.png" href="" />
 
 ###
 
-<img align="left" height="200" src="https://github.com/ayogun/42-project-badges/blob/main/badges/netpracticem.png"  />
+<img align="left" height="200" src="https://github.com/ayogun/42-project-badges/blob/main/badges/push_swape.png" href="https://github.com/LeSabreDeDieu/push_swap" />
 
 ###
 
-<img align="left" height="200" src="https://github.com/ayogun/42-project-badges/blob/main/badges/minishellm.png"  />
+<img align="center" height="200" src="https://github.com/ayogun/42-project-badges/blob/main/badges/so_longm.png" href="https://github.com/LeSabreDeDieu/so_long" />
 
 ###
 
-<img align="left" height="200" src="https://github.com/ayogun/42-project-badges/blob/main/badges/minitalkm.png"  />
+<img align="right" height="200" src="https://github.com/ayogun/42-project-badges/blob/main/badges/minitalkm.png" href="https://github.com/LeSabreDeDieu/Minitalk" />
 
 ###
 
-<img align="left" height="200" src="https://github.com/ayogun/42-project-badges/blob/main/badges/push_swape.png"  />
+<img align="left" height="200" src="https://github.com/ayogun/42-project-badges/blob/main/badges/minishellm.png" href="https://github.com/LeSabreDeDieu/Minishell" />
 
 ###
 
-<img align="left" height="200" src="https://github.com/ayogun/42-project-badges/blob/main/badges/born2beroote.png"  />
+<img align="right" height="200" src="https://github.com/ayogun/42-project-badges/blob/main/badges/philosopherse.png" href="https://github.com/LeSabreDeDieu/philosopher" />
 
 ###
 
-<img align="left" height="200" src="https://github.com/ayogun/42-project-badges/blob/main/badges/ft_printfe.png"  />
+<img align="left" height="200" src="https://github.com/ayogun/42-project-badges/blob/main/badges/cub3dm.png" href="" />
 
 ###
 
-<img align="left" height="200" src="https://github.com/ayogun/42-project-badges/blob/main/badges/so_longm.png"  />
+<img align="right" height="200" src="https://github.com/ayogun/42-project-badges/blob/main/badges/netpracticem.png" href="" />
 
 ###
 
