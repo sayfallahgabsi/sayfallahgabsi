@@ -1,4 +1,4 @@
-[<h1 align="center">Hello World !</h1>
+<h1 align="center">Hello World !</h1>
 
 ###
 
@@ -23,22 +23,6 @@
 ###
 
 <h3 align="center">Projects Done :</h3>
-
-###
-
-<img align="left" height="200" src="https://github.com/ayogun/42-project-badges/blob/main/badges/push_swape.png"  />
-
-###
-
-<img align="left" height="200" src="https://github.com/ayogun/42-project-badges/blob/main/badges/born2beroote.png"  />
-
-###
-
-<img align="left" height="200" src="https://github.com/ayogun/42-project-badges/blob/main/badges/ft_printfe.png"  />
-
-###
-
-<img align="left" height="200" src="https://github.com/ayogun/42-project-badges/blob/main/badges/so_longm.png"  />
 
 ###
 
@@ -70,13 +54,23 @@
 
 ###
 
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=LeSabreDeDieu&theme=dark" alt="Layout with last medium posts"  />
-</div>
+<img align="left" height="200" src="https://github.com/ayogun/42-project-badges/blob/main/badges/push_swape.png"  />
 
 ###
+
+<img align="left" height="200" src="https://github.com/ayogun/42-project-badges/blob/main/badges/born2beroote.png"  />
+
+###
+
+<img align="left" height="200" src="https://github.com/ayogun/42-project-badges/blob/main/badges/ft_printfe.png"  />
+
+###
+
+<img align="left" height="200" src="https://github.com/ayogun/42-project-badges/blob/main/badges/so_longm.png"  />
+
+###
+
+<br clear="both">
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
@@ -120,4 +114,13 @@
 </div>
 
 ###
-](https://profile-readme-generator.com/result)
+
+<img src="https://raw.githubusercontent.com/LeSabreDeDieu/LeSabreDeDieu/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/LeSabreDeDieu/count.svg?"  />
+</div>
+
+###
