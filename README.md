@@ -30,7 +30,7 @@
 
 ###
 <br clear="both">
-<img align="left" height="200" src="https://github.com/ayogun/42-project-badges/blob/main/badges/ft_printfe.png" href="https://github.com/LeSabreDeDieu/ft_printf" />
+<img align="center" height="200" src="https://github.com/ayogun/42-project-badges/blob/main/badges/ft_printfe.png" href="https://github.com/LeSabreDeDieu/ft_printf" />
 
 ###
 
@@ -38,11 +38,11 @@
 
 ###
 
-<img align="right" height="200" src="https://github.com/ayogun/42-project-badges/blob/main/badges/born2beroote.png" href="" />
+<img align="center" height="200" src="https://github.com/ayogun/42-project-badges/blob/main/badges/born2beroote.png" href="" />
 
 ###
 <br clear="both">
-<img align="left" height="200" src="https://github.com/ayogun/42-project-badges/blob/main/badges/push_swape.png" href="https://github.com/LeSabreDeDieu/push_swap" />
+<img align="center" height="200" src="https://github.com/ayogun/42-project-badges/blob/main/badges/push_swape.png" href="https://github.com/LeSabreDeDieu/push_swap" />
 
 ###
 
@@ -50,24 +50,24 @@
 
 ###
 
-<img align="right" height="200" src="https://github.com/ayogun/42-project-badges/blob/main/badges/minitalkm.png" href="https://github.com/LeSabreDeDieu/Minitalk" />
+<img align="center" height="200" src="https://github.com/ayogun/42-project-badges/blob/main/badges/minitalkm.png" href="https://github.com/LeSabreDeDieu/Minitalk" />
 ###
 
 <br clear="both">
-<img align="left" height="200" src="https://github.com/ayogun/42-project-badges/blob/main/badges/minishellm.png" href="https://github.com/LeSabreDeDieu/Minishell" />
+<img align="center" height="200" src="https://github.com/ayogun/42-project-badges/blob/main/badges/minishellm.png" href="https://github.com/LeSabreDeDieu/Minishell" />
 
 ###
 
-<img align="right" height="200" src="https://github.com/ayogun/42-project-badges/blob/main/badges/philosopherse.png" href="https://github.com/LeSabreDeDieu/philosopher" />
+<img align="center" height="200" src="https://github.com/ayogun/42-project-badges/blob/main/badges/philosopherse.png" href="https://github.com/LeSabreDeDieu/philosopher" />
 
 ###
 
 <br clear="both">
-<img align="left" height="200" src="https://github.com/ayogun/42-project-badges/blob/main/badges/cub3dm.png" href="" />
+<img align="center" height="200" src="https://github.com/ayogun/42-project-badges/blob/main/badges/cub3dm.png" href="" />
 
 ###
 
-<img align="right" height="200" src="https://github.com/ayogun/42-project-badges/blob/main/badges/netpracticem.png" href="" />
+<img align="center" height="200" src="https://github.com/ayogun/42-project-badges/blob/main/badges/netpracticem.png" href="" />
 
 ###
 
