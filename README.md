@@ -8,18 +8,17 @@
 ###
 
 <div  align="center">
-<img  height="200"  src="https://github.com/ayogun/42-project-badges/blob/main/badges/common_coren.png" />
+	<img  height="200"  src="https://github.com/ayogun/42-project-badges/blob/main/badges/common_coren.png" />
 </div>
 
 ###
 
 <h3  align="center">Work In Progrss Projects :</h3>
-
 <div  align="center" class="inProgress">
-<img  height="200"  src="https://github.com/ayogun/42-project-badges/blob/main/badges/cppe.png" />
+	<img  height="200"  src="https://github.com/ayogun/42-project-badges/blob/main/badges/cppe.png" />
 </div>
 
-<div>
+<div name="dones">
 <h3  align="center">Projects Done :</h3>
 
 <div align="center  name="cercle1">
@@ -36,6 +35,7 @@
 <img align="left" height="200"  src="https://github.com/ayogun/42-project-badges/blob/main/badges/push_swape.png"  href="https://github.com/LeSabreDeDieu/push_swap" />
 <img align="center" height="200"  src="https://github.com/ayogun/42-project-badges/blob/main/badges/so_longm.png"  href="https://github.com/LeSabreDeDieu/so_long" />
 <img align="right" height="200"  src="https://github.com/ayogun/42-project-badges/blob/main/badges/minitalkm.png"  href="https://github.com/LeSabreDeDieu/Minitalk" />
+</div>
 
 <div align="center" name="cercle4">
 <img align="left" height="200"  src="https://github.com/ayogun/42-project-badges/blob/main/badges/minishellm.png"  href="https://github.com/LeSabreDeDieu/Minishell" />
@@ -46,9 +46,10 @@
 <img align="left" height="200"  src="https://github.com/ayogun/42-project-badges/blob/main/badges/cub3dm.png"  href="" />
 <img align="right" height="200"  src="https://github.com/ayogun/42-project-badges/blob/main/badges/netpracticem.png"  href="" />
 </div>
-
 </div>
  
+###
+
 <div  align="left">
 <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"  height="40"  alt="c logo" />
 <img  width="12" />
@@ -83,28 +84,15 @@
 <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg"  height="40"  alt="unity logo" />
 </div>
 
-  
-
 ###
 
-  
-
 <div  align="center">
-
 <img  src="https://github-readme-stats.vercel.app/api?username=LeSabreDeDieu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1"  height="150"  alt="stats graph" />
-
 <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=LeSabreDeDieu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2"  height="150"  alt="languages graph" />
-
 </div>
-
-  
 
 <div  align="center">
-
 <img  src="https://profile-counter.glitch.me/LeSabreDeDieu/count.svg?" />
-
 </div>
-
-  
 
 ###
