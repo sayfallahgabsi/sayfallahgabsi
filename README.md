@@ -1,8 +1,11 @@
+<div align="center">
 # Hello World !
+</div>
 
 ---
-
+<div align="center">
 ## Actually on 42 Commun-Core
+</div>
 
 ---
 
