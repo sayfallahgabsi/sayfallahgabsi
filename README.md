@@ -58,10 +58,6 @@
   <img height="200" src="https://github.com/ayogun/42-project-badges/blob/main/badges/netpracticem.png" />
 </div>
 
----
-
-<h3 align="center">Languages I've already touched:</h3>
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C logo" />
   <img width="12" />
