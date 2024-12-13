@@ -1,8 +1,8 @@
-# Hello World ! {align=center}
+# Hello World !
 
 ---
 
-## Actually on 42 Commun-Core {align=center}
+## Actually on 42 Commun-Core
 
 ---
 
@@ -12,7 +12,7 @@
 
 ---
 
-### Work In Progress Projects : {align=center}
+### Work In Progress Projects :
 
 <div align="center">
   <img height="200" src="https://github.com/ayogun/42-project-badges/blob/main/badges/cppe.png" />
@@ -20,7 +20,7 @@
 
 ---
 
-### Projects Done : {align=center}
+### Projects Done :
 
 <div align="center">
   <a href="https://github.com/LeSabreDeDieu/libft">
@@ -66,7 +66,7 @@
 
 ---
 
-### Languages I've already touched: {align=center}
+### Languages I've already touched:
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C logo" />
