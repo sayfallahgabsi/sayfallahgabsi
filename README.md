@@ -11,7 +11,9 @@
 <h3 align="center">Work In Progress Projects :</h3>
 
 <div align="center">
-  <img height="200" src="https://github.com/ayogun/42-project-badges/blob/main/badges/cppe.png" />
+  <a href="https://github.com/LeSabreDeDieu/Module_cpp">
+    <img height="200" src="https://github.com/ayogun/42-project-badges/blob/main/badges/cppe.png" />
+  </a>
 </div>
 
 <h3 align="center">Projects Done :</h3>
