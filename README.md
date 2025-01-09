@@ -54,7 +54,9 @@
 </div>
 
 <div align="center">
-  <img height="200" src="https://github.com/ayogun/42-project-badges/blob/main/badges/cub3dm.png" />
+  <a href="https://github.com/LeSabreDeDieu/philosopher">
+    <img height="200" src="https://github.com/ayogun/42-project-badges/blob/main/badges/cub3dm.png" />
+  </a>
   <img height="200" src="https://github.com/ayogun/42-project-badges/blob/main/badges/netpracticem.png" />
 </div>
 
