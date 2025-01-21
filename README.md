@@ -1,6 +1,6 @@
 <h1 align="center">Hello World ! </h1>
 
-h2 align="center">My 42 profile : </h2>
+<h2 align="center">My 42 profile : </h2>
 
 <div align="center">
   <img src="https://badge.mediaplus.ma/darkblue/sgabsi?1337Badge=off&UM6P=off" alt="sgabsi's 42 Badge" />
