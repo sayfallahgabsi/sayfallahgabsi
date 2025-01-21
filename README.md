@@ -105,6 +105,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LeSabreDeDieu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
 </div>
 
+[![sgabsi's 42 stats](https://badge.mediaplus.ma/darkblue/sgabsi?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
+
 <div align="center">
   <img src="https://profile-counter.glitch.me/LeSabreDeDieu/count.svg?" />
 </div>
