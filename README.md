@@ -3,7 +3,9 @@
 <h2 align="center">My 42 profile : </h2>
 
 <div align="center">
-  <img src="https://badge.mediaplus.ma/darkblue/sgabsi?1337Badge=off&UM6P=off" alt="sgabsi's 42 Badge" />
+  <a href="https://profile.intra.42.fr/users/sgabsi">  
+    <img src="https://badge.mediaplus.ma/darkblue/sgabsi?1337Badge=off&UM6P=off" alt="sgabsi's 42 Badge" />
+  </a>
 </div>
 
 <h2 align="center">Actually on 42 Commun-Core</h2>
