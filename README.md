@@ -1,5 +1,10 @@
 <h1 align="center">Hello World ! </h1>
 
+h2 align="center">My 42 profile : </h2>
+
+<div align="center">
+  <img src="https://badge.mediaplus.ma/darkblue/sgabsi?1337Badge=off&UM6P=off" alt="sgabsi's 42 Badge" />
+</div>
 
 <h2 align="center">Actually on 42 Commun-Core</h2>
 
@@ -104,11 +109,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=LeSabreDeDieu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LeSabreDeDieu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
 </div>
-
-<div align="center">
-  <img src="https://badge.mediaplus.ma/darkblue/sgabsi?1337Badge=off&UM6P=off" alt="sgabsi's 42 Badge" />
-</div>
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/LeSabreDeDieu/count.svg?" />
 </div>
