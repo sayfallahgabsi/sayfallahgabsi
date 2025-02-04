@@ -36,7 +36,7 @@
     <img height="200" src="https://github.com/ayogun/42-project-badges/blob/main/badges/ft_printfe.png" />
   </a>
   <a href="https://github.com/LeSabreDeDieu/gnl-42">
-    <img height="200" src="https://github.com/ayogun/42-project-badges/blob/main/badges/get_next_linee.png" />
+    <img height="200" src="https://github.com/ayogun/42-project-badges/blob/main/badges/get_next_linem.png" />
   </a>
   <img height="200" src="https://github.com/ayogun/42-project-badges/blob/main/badges/born2beroote.png" />
 </div>
