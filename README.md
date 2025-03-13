@@ -18,9 +18,6 @@
 <h3 align="center">Work In Progress Projects :</h3>
 
 <div align="center">
-  <a href="https://github.com/LeSabreDeDieu/Module_cpp">
-    <img height="200" src="https://github.com/ayogun/42-project-badges/blob/main/badges/cppn.png" />
-  </a>
   <a href="https://github.com/LeSabreDeDieu">
     <img height="200" src="https://github.com/ayogun/42-project-badges/blob/main/badges/inceptionn.png" />
   </a>
@@ -70,6 +67,9 @@
     <img height="200" src="https://github.com/ayogun/42-project-badges/blob/main/badges/cub3dm.png" />
   </a>
   <img height="200" src="https://github.com/ayogun/42-project-badges/blob/main/badges/netpracticem.png" />
+  <a href="https://github.com/LeSabreDeDieu/Module_cpp">
+    <img height="200" src="https://github.com/ayogun/42-project-badges/blob/main/badges/cppn.png" />
+  </a>
 </div>
 
 ---
