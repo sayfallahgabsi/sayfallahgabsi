@@ -12,14 +12,14 @@
 
 
 <div align="center">
-  <img height="200" src="https://github.com/ayogun/42-project-badges/blob/main/badges/common_coren.png" />
+  <img height="200" src="./imgs/badges/common_coren.png" />
 </div>
 
 <h3 align="center">Work In Progress Projects :</h3>
 
 <div align="center">
   <a href="https://github.com/LeSabreDeDieu">
-    <img height="200" src="https://github.com/ayogun/42-project-badges/blob/main/badges/inceptionn.png" />
+    <img height="200" src="./imgs/badges/inceptionn.png" />
   </a>
 </div>
 
@@ -27,57 +27,57 @@
 
 <div align="center">
   <a href="https://github.com/LeSabreDeDieu/libft">
-    <img height="200" src="https://github.com/ayogun/42-project-badges/blob/main/badges/libftm.png" />
+    <img height="200" src="./imgs/badges/libftm.png" />
   </a>
 </div>
 
 <div align="center">
   <a href="https://github.com/LeSabreDeDieu/ft_printf">
-    <img height="200" src="https://github.com/ayogun/42-project-badges/blob/main/badges/ft_printfe.png" />
+    <img height="200" src="./imgs/badges/ft_printfe.png" />
   </a>
   <a href="https://github.com/LeSabreDeDieu/gnl-42">
-    <img height="200" src="https://github.com/ayogun/42-project-badges/blob/main/badges/get_next_linem.png" />
+    <img height="200" src="./imgs/badges/get_next_linem.png" />
   </a>
-  <img height="200" src="https://github.com/ayogun/42-project-badges/blob/main/badges/born2beroote.png" />
+  <img height="200" src="./imgs/badges/born2beroote.png" />
 </div>
 
 <div align="center">
   <a href="https://github.com/LeSabreDeDieu/push_swap">
-    <img height="200" src="https://github.com/ayogun/42-project-badges/blob/main/badges/push_swape.png" />
+    <img height="200" src="./imgs/badges/push_swape.png" />
   </a>
   <a href="https://github.com/LeSabreDeDieu/so_long">
-    <img height="200" src="https://github.com/ayogun/42-project-badges/blob/main/badges/so_longm.png" />
+    <img height="200" src="./imgs/badges/so_longm.png" />
   </a>
   <a href="https://github.com/LeSabreDeDieu/Minitalk">
-    <img height="200" src="https://github.com/ayogun/42-project-badges/blob/main/badges/minitalkm.png" />
+    <img height="200" src="./imgs/badges/minitalkm.png" />
   </a>
 </div>
 
 <div align="center">
   <a href="https://github.com/LeSabreDeDieu/Minishell">
-    <img height="200" src="https://github.com/ayogun/42-project-badges/blob/main/badges/minishellm.png" />
+    <img height="200" src="./imgs/badges/minishellm.png" />
   </a>
   <a href="https://github.com/LeSabreDeDieu/philosopher">
-    <img height="200" src="https://github.com/ayogun/42-project-badges/blob/main/badges/philosopherse.png" />
+    <img height="200" src="./imgs/badges/philosopherse.png" />
   </a>
 </div>
 
 <div align="center">
   <a href="https://github.com/LeSabreDeDieu/Cub3D">
-    <img height="200" src="https://github.com/ayogun/42-project-badges/blob/main/badges/cub3dm.png" />
+    <img height="200" src="./imgs/badges/cub3dm.png" />
   </a>
-  <img height="200" src="https://github.com/ayogun/42-project-badges/blob/main/badges/netpracticem.png" />
+  <img height="200" src="./imgs/badges/netpracticem.png" />
   <a href="https://github.com/LeSabreDeDieu/Module_cpp">
-    <img height="200" src="https://github.com/ayogun/42-project-badges/blob/main/badges/cppm.png" />
+    <img height="200" src="./imgs/badges/cppm.png" />
   </a>
 </div>
 
 <div align="center">
   <a href="https://github.com/LeSabreDeDieu/Webserv">
-    <img height="200" src="https://github.com/ayogun/42-project-badges/blob/main/badges/webservm.png" />
+    <img height="200" src="./imgs/badges/webservm.png" />
   </a>
 <!--   <a href="https://github.com/LeSabreDeDieu/Inception">
-    <img height="200" src="https://github.com/ayogun/42-project-badges/blob/main/badges/cppm.png" />
+    <img height="200" src="./imgs/badges/cppm.png" />
   </a> -->
 </div>
 
