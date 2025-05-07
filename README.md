@@ -76,7 +76,6 @@
   <a href="https://github.com/LeSabreDeDieu/Webserv">
     <img height="200" src="https://github.com/ayogun/42-project-badges/blob/main/badges/webservm.png" />
   </a>
-  <img height="200" src="https://github.com/ayogun/42-project-badges/blob/main/badges/netpracticem.png" />
 <!--   <a href="https://github.com/LeSabreDeDieu/Inception">
     <img height="200" src="https://github.com/ayogun/42-project-badges/blob/main/badges/cppm.png" />
   </a> -->
