@@ -18,9 +18,7 @@
 <h3 align="center">Work In Progress Projects :</h3>
 
 <div align="center">
-  <a href="https://github.com/LeSabreDeDieu">
-    <img height="200" src="./imgs/badges/inceptionn.png" />
-  </a>
+  
 </div>
 
 <h3 align="center">Projects Done :</h3>
@@ -76,9 +74,9 @@
   <a href="https://github.com/LeSabreDeDieu/Webserv">
     <img height="200" src="./imgs/badges/webservm.png" />
   </a>
-<!--   <a href="https://github.com/LeSabreDeDieu/Inception">
-    <img height="200" src="./imgs/badges/cppm.png" />
-  </a> -->
+  <a href="https://github.com/LeSabreDeDieu">
+    <img height="200" src="./imgs/badges/inceptionn.png" />
+  </a>
 </div>
 
 ---
