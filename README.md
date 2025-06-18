@@ -74,8 +74,8 @@
   <a href="https://github.com/LeSabreDeDieu/Webserv">
     <img height="200" src="./imgs/badges/webservm.png" />
   </a>
-  <a href="https://github.com/LeSabreDeDieu">
-    <img height="200" src="./imgs/badges/inceptionn.png" />
+  <a href="https://github.com/LeSabreDeDieu/Inception">
+    <img height="200" src="./imgs/badges/inceptione.png" />
   </a>
 </div>
 
