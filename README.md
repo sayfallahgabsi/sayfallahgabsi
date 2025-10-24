@@ -80,7 +80,7 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/sayfallahgabsi">
+  <a href="https://github.com/Luma-3/ft_transcendence">
     <img height="200" src="./imgs/badges/ft_transcendencem.png" />
   </a>
 </div>
